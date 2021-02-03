@@ -16,4 +16,14 @@ var b= false;
 console.log(a,b);
 var und;
 console.log(und)
+var a = 1;
+var b = 2;
+console.log("the value of a+b is",a+b);
+var c=2;
+c-= 2;
+console.log(c);
+var s=1;
+var r=1;
+console.log(s == r);
+console.log(true&&true);
 
